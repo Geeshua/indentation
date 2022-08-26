@@ -1,0 +1,36 @@
+.main__from-left-to-right{
+    margin-bottom: 50px;
+    padding: 0 25px;
+}
+
+.img__margin{
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 560px;
+}
+
+.img__padding{
+    width: 560px;
+}
+.from-left-to-right__text{
+    display: inline-block;
+    vertical-align: top;
+    width: 490px;
+}
+
+.from-left-to-right__text:last-child{
+    margin-bottom: 0;
+}
+
+.from-left-to-right__text_bottom{
+    width: 480px;
+    margin-right: 40px;
+}
+
+.from-left-to-right__text_bottom p:first-child{
+    white-space: pre-line;
+}
+
+.from-left-to-right__text_bottom p:last-child{
+    margin-bottom: 0;
+}

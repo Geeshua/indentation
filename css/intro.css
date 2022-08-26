@@ -1,0 +1,8 @@
+.header__intro{
+    margin-bottom: 50px;
+    padding: 0 30px;
+}
+
+.header__intro p:last-child{
+    margin-bottom: 0;
+}

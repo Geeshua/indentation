@@ -1,0 +1,68 @@
+html{
+    box-sizing: border-box;
+    position: relative    ;
+}
+
+*, *::after, *::before{
+    box-sizing: inherit;
+}
+
+body{
+    min-width: 320px;
+    min-height: 100vh;
+    font-family: Roboto, sans-serif;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+h1,h2,h3,p,figure,fieldset {
+    margin: 0;
+    padding: 0;
+} 
+
+h1{
+    padding-top: 60px;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+h2{
+    padding-left: 45px;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 20px;        
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+a{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #02535F;
+}
+
+ul,ol{
+    margin: 0;
+}
+.scheme{
+    padding: 0 150px;
+}

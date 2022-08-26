@@ -1,0 +1,26 @@
+.main__for-last-child{
+    margin-bottom: 50px;
+    padding: 0 30px;
+}
+
+.img__last-child-gaps,
+.last-child-margins,
+.last-child-code2,
+.header-example-page,
+.header-example-code,
+.header-css1{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.last-child-code1{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0;
+}
+
+.header-css2{
+    display: block;
+    margin: 0 auto;
+}

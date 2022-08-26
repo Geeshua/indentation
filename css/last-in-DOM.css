@@ -1,0 +1,41 @@
+.main__last-in-DOM{
+    margin-bottom: 50px;
+    padding: 0 30px;
+}
+
+.img__margin-code{
+    margin-bottom: 30px;
+}
+
+.img__margin-page{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.last-in-DOM__bordered{
+    border: 1px solid #000000;
+    margin-bottom: 30px;
+}
+
+.last-in-DOM__bordered__text{
+    padding: 15px 30px;
+    color: #5E5E5E; 
+    margin-bottom: 0;
+}
+
+.img__padding-code{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.img__padding-code-and-page{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.last-in-DOM :last-child{
+    margin-bottom: 0;
+}
