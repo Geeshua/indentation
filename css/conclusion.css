@@ -1,4 +1,4 @@
-.main__conclusion{
+.conclusion{
     margin-bottom: 50px;
 }
 
@@ -10,6 +10,7 @@
 
 .conclusion__list{
     list-style: none;
+    margin-bottom: 30px;
 }
 
 .conclusion__list-item{
@@ -20,7 +21,7 @@
 }
 
 .conclusion__list-item:last-child{
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 .conclusion p{

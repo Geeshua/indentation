@@ -1,4 +1,4 @@
-.main__last-in-DOM{
+.last-in-DOM{
     margin-bottom: 50px;
     padding: 0 30px;
 }
@@ -22,6 +22,10 @@
     padding: 15px 30px;
     color: #5E5E5E; 
     margin-bottom: 0;
+}
+
+.img__margin-code-and-page{
+    width: 100%;
 }
 
 .img__padding-code{

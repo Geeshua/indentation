@@ -1,8 +1,8 @@
-.header__intro{
+.intro__text{
     margin-bottom: 50px;
     padding: 0 30px;
 }
 
-.header__intro p:last-child{
+.intro__text p:last-child{
     margin-bottom: 0;
 }
